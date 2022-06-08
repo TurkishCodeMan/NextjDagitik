@@ -2,7 +2,7 @@ import * as auth from "./auth-provider";
 
 // const apiURL = "http://localhost:3000/api";
 
-const apiURL="https://next-exercise-steel.vercel.app/api"
+const apiURL="https://next-exercise.vercel.app/api"
 
 async function client(
   endpoint,
