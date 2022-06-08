@@ -4,6 +4,8 @@ import * as auth from "./auth-provider";
 
 const apiURL="https://next-exercise.vercel.app/api"
 
+
+
 async function client(
   endpoint,
   { data, token, headers: customHeaders, ...customConfig } = {}
